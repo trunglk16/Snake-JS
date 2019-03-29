@@ -6,7 +6,7 @@ const box = 25
 ;
 
 const ground = new Image();
-ground.src = "img/ground.png";
+ground.src = "img/Drawing.png";
 
 const foodImg = new Image();
 foodImg.src = "img/assets/assets/enemy.png";
